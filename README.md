@@ -108,6 +108,7 @@ git config --global difftool.vscode.cmd 'code --wait --diff $LOCAL $REMOTE'
 #===================================
 # vscode command line extension management
 #===================================
+code --install-extension Huuums.vscode-fast-folder-structure
 code --install-extension aaron-bond.better-comments
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension eamodio.gitlens

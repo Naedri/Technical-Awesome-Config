@@ -1,0 +1,18 @@
+{
+    "recommendations": [
+        "Huuums.vscode-fast-folder-structure",
+        "aaron-bond.better-comments",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode",
+        "ethansk.restore-terminals",
+        "formulahendry.auto-rename-tag",
+        "formulahendry.code-runner",
+        "msjsdiag.debugger-for-chrome",
+        "nemesv.copy-file-name",
+        "quicktype.quicktype",
+        "streetsidesoftware.code-spell-checker",
+        "visualstudioexptteam.vscodeintellicode",
+        "waderyan.nodejs-extension-pack",
+    ]
+}
