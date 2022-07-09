@@ -123,4 +123,4 @@ code --install-extension visualstudioexptteam.vscodeintellicode
 code --install-extension waderyan.nodejs-extension-pack
 ```
 
-Then install add the [_.vscode_]() folder to your workspace.
+Then install add the [_.vscode_](https://github.com/Naedri/Technical-Awesome-Config/tree/main/.vscode) folder to your workspace.
